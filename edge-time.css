@@ -1,0 +1,45 @@
+.bgimg{
+    background-image: url(./edge-time-img/wbg.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.home{
+    margin-top: 10%;
+}
+.cdimg {
+   width: 200px;
+    height: 300px; 
+    display: block; 
+    margin: 0 auto; 
+}
+.center-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px; 
+}
+.product-img-border{
+    border: 2px solid gray;
+    border-radius: 10px;
+}
+.img-center-btn{
+  margin-top: 20px;
+  margin-left: 47%;
+}
+.card-border:hover{
+    border: 2px solid gray;
+}
+.bgimgdark{
+    background-image: url(./edge-time-img/blackwatch.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
